@@ -1,0 +1,17 @@
+{   
+    "home.h3" : "HI, MY NAME IS LORENZO & I'M",
+    "home.h1" : "WEB DEVELOPER",
+    "home.button" : "HIRE ME!",
+
+    "about.h1" : "ABOUT ME",
+    "about.p" : "Hi, I'm 26 years old, and I'm looking for my first job in IT. I live in Rio Cuarto, Argentina. I like finance, to read philosophy and running. I obtained a secondary degree in Electromechanical Technician, a diploma in English lang, a diploma in Java and for some years I've been studying a Bachelor of Economics at UNRC. I started to programm 2 years ago, lerning technologies like HTML5, CSS3, JavaScript, Bootstrap, Wordpress, React JS, Java, Node JS, MySQL, etc. I've passed other jobs like customer support, Technician and duty manager",
+
+    "nav.home" : "Home",
+    "nav.aboutme" : "About Me",
+    "nav.projects" : "Projects",
+    "nav.contact" : "Contact",
+
+    "not.h3" : "ERROR 404",
+    "not.h1" : "PAGE NOT FOUND *_*"
+
+}

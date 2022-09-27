@@ -1,0 +1,16 @@
+{   
+    "home.h3" : "HOLA, ME LLAMO LORENZO Y SOY",
+    "home.h1" : "DESARROLLADOR WEB",
+    "home.button" : "CONTRATAME!",
+
+    "about.h1" : "SOBRE MI",
+    "about.p" : "Soy Lorenzo, tengo 26 años, y estoy buscando mi primer puesto en el mundo IT. Mis hobbies son las finanzas, leer, estudiar filosofía y el running. Vivo en la ciudad de Río Cuarto, Cba. Obtuve un titulo secundario de Técnico Electromecánico, diplomatura en lengua Inglesa, diplomatura en Java y desde hace algunos años me encuentro estudiando Licenciatura en Economía en la UNRC. Comenzé a programar hace 2 años pasando por tecnologías como JavaScript, HTML, CSS, React JS, Java, MySQL, Bootstrap, Wordpress, entre otras. En el pasado trabajé en distintos puestos: técnico, atención al cliente y encargado.",
+
+    "nav.home" : "Inicio",
+    "nav.aboutme" : "Sobre Mi",
+    "nav.projects" : "Proyectos",
+    "nav.contact" : "Contáctame",
+
+    "not.h3" : "ERROR 404",
+    "not.h1" : "NO SE ENCUENTRA LA PÁGINA *_*"
+}
