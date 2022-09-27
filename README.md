@@ -1,8 +1,8 @@
-# Hi!
+# Hi there, my first project in GitHub!
 
 This project is my personal portfolio.
 
-## Tools:
+### Tools:
 
 The project was made by me using React, with tools like React Context, Effect, State, Router, etc.
 
